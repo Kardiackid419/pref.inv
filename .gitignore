@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python
 __pycache__/
 *.py[cod]
@@ -12,4 +13,21 @@ venv/
 # React
 node_modules/
 build/
+=======
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# React
+node_modules/
+build/
+>>>>>>> dcc92345d936ef70f0172ae6095354f90b31a60b
 .DS_Store 
+.codegpt
